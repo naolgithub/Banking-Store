@@ -1,16 +1,22 @@
-# banking_store
+# Banking Store
 
-A new Flutter project.
+A mobile application built with FLutter framework.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+The following packages are used as dependencies in this project:
+- **fl_chart:** ^0.66.0   ` FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Char`
+- **flutter_svg_provider:** ^1.0.7    `A Flutter package for using svg in Image widget via custom ImageProvider`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
+![Screenshot 5](screenshots/5.png)
+![Screenshot 6](screenshots/6.png)
+
+
